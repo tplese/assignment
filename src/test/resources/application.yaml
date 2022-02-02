@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:db
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: sa
+  jpa:
+    database: h2
+    hibernate:
+      ddl-auto: create-drop
+  sql:
+    init:
+      mode: always
+
+app:
+  rate-api:
+    eur-url: "http://localhost:8889/eur"

@@ -5,7 +5,7 @@
 
 [Java environment](#java-environment)
 
-[Steps to start application](#steps-to-start-application)
+[Steps to start and use application](#steps-to-start-and-use-application)
 
 
 ## The Assignment

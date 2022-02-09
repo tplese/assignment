@@ -33,7 +33,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
-      <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/2/2" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/4/9" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/7/0" />
@@ -44,6 +43,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/f/c" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/a" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -75,7 +75,6 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.22" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-configuration-processor:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-aop:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.9.7" level="project" />

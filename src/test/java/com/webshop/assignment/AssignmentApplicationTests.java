@@ -3,7 +3,6 @@ package com.webshop.assignment;
 import com.webshop.assignment.controller.CustomerController;
 import com.webshop.assignment.controller.OrderController;
 import com.webshop.assignment.controller.ProductController;
-import com.webshop.assignment.model.Customer;
 import com.webshop.assignment.service.CustomerService;
 import com.webshop.assignment.service.OrderResponseService;
 import com.webshop.assignment.service.OrderService;
